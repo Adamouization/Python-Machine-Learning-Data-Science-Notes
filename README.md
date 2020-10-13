@@ -9,7 +9,7 @@ Covers the following topics:
 * [X] Data Visualisation in Matplotlib and Seaborn
 * [ ] Scikit-Learn models
 
-You download/read the compiled notebooks in HTML format in the [`html_notebooks`](https://github.com/Adamouization/Python-Machine-Learning-Data-Science-Notes/tree/master/html_notebooks) directory.
+You download/read the notebooks format in the [`notebooks`](https://github.com/Adamouization/Python-Machine-Learning-Data-Science-Notes/tree/master/notebooks) directory.
 
 ## Online Sources
 
