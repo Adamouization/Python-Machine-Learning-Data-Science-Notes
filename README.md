@@ -1,4 +1,4 @@
-# Python - Machine Learning & Data Science Notes
+# Python - Machine Learning & Data Science Notes [![HitCount](http://hits.dwyl.com/https://githubcom/Adamouization/Python-Machine-Le/Python-Machine-Learning-Data-Science-Notes.svg)](http://hits.dwyl.com/https://githubcom/Adamouization/Python-Machine-Le/Python-Machine-Learning-Data-Science-Notes) [![GitHub stars](https://img.shields.io/github/stars/Adamouization/Python-Machine-Learning-Data-Science-Notes)](https://github.com/Adamouization/Python-Machine-Learning-Data-Science-Notes/stargazers) [![GitHub license](https://img.shields.io/github/license/Adamouization/Python-Machine-Learning-Data-Science-Notes)](https://github.com/Adamouization/Python-Machine-Learning-Data-Science-Notes/blob/master/LICENSE) 
 
 Python code and notes in the form of Jupyter Notebooks useful for general Machine Learning and Data Science projects. 
 
