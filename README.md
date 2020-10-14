@@ -19,18 +19,21 @@ You download/read the notebooks format in the [`notebooks`](https://github.com/A
   * [Clean Code, Robert C. Martin](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)
 * General
   * [Kaggle Courses](https://www.kaggle.com/learn)
-  * 
+  * [50 Machine Learning Interview Questions](https://www.javatpoint.com/machine-learning-interview-questions)
+* ML concepts:
+  * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+  * [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
+  * [IBM: Machine learning and bias](https://developer.ibm.com/technologies/machine-learning/articles/machine-learning-and-bias)
+  * [Sparse Matrices For Efficient Machine Learning ](https://dziganto.github.io/Sparse-Matrices-For-Efficient-Machine-Learning/)
 * Python
   * [f-strings](https://realpython.com/python-f-strings/)
-  * 
 * Machine Learning model deployment
   * [Productionize a Machine Learning model with Flask and Heroku](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
   * [Simple way to deploy machine learning models to cloud](https://towardsdatascience.com/simple-way-to-deploy-machine-learning-models-to-cloud-fd58b771fdcf)
   * [What Does it Mean to Deploy a Machine Learning Model? (Deployment Series: Guide 01)](https://mlinproduction.com/what-does-it-mean-to-deploy-a-machine-learning-model-deployment-series-01/)
-  * 
+* Statistics
+  * [Basics Of Statistics For Machine Learning Engineers](https://medium.com/technology-nineleaps/basics-of-statistics-for-machine-learning-engineers-bf2887ac716c)
   
-*Note: to be completed progressively.*
-
 ## Usage
 
 Download this repository, create a virtual environment and activate it:
