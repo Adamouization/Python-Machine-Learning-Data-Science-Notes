@@ -8,6 +8,7 @@ Covers the following topics:
 * [X] Data Cleaning in Pandas
 * [X] Data Visualisation in Matplotlib and Seaborn
 * [ ] Scikit-Learn models
+* [X] PyTorch CNN on Fashion MNIST dataset
 
 You download/read the notebooks format in the [`notebooks`](https://github.com/Adamouization/Python-Machine-Learning-Data-Science-Notes/tree/master/notebooks) directory.
 
